@@ -190,6 +190,8 @@ namespace SampleMysql_C_Connection
                 }
             }
         }
-
+private void button6_Click(object sender, EventArgs e){
+LoadData();
+}
     }
 }
